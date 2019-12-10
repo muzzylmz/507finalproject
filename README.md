@@ -13,7 +13,5 @@ There are four graphs/diagrams to illustrate the relationship between these vari
 User guide: 
 To begin with, run the file in command. Following the instruction- input “help”, “plots”, “list”, and “exit”, for other inputs, it will return “command not recognized”. For “help”, it will give an instruction to guide what plots are available to display. 
  
-
-You need to pick a number and type the number. Then it will go to a visualization menu, options are “exit”, “1”, “2”, “3”, “4”, “all”, otherwise “Error. Invalid command”. The numbers correspond to each plot. 
-
-
+In order to process to navigate to plots, please enter “Help” first. 
+You will see a visualization menu, with options are “exit”, “1”, “2”, “3”, “4”, “all”, otherwise “Error. Invalid command”. The numbers correspond to each plot. Pick a plot and type the number. The plot will show up. 
